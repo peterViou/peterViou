@@ -7,7 +7,7 @@ Hi it's **Peter**
 {
   "firstName": "Peter",
   "lastName": "Duchastenier",
-  nationality:"French",
+  "nationality":"French",
   "age": 43
 }
 ```
