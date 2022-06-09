@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/EK24OWrJSy1GkkNu0y" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/EK24OWrJSy1GkkNu0y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y">via GIPHY</a></p>
 
 
 <p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
