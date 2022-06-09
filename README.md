@@ -1,4 +1,4 @@
-### Hi there 👋
+<p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
 
 <!--
 **peterViou/peterViou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
