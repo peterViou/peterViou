@@ -1,4 +1,4 @@
-<p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
+<p><img src="https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y" alt="Hello" width="250" /></p>
 
 <p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
 
