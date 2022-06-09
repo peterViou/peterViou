@@ -1,5 +1,7 @@
-<p><img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" /></p>
+<img src="https://i.imgur.com/Fihbexl.gif" alt="Hello" width="250" />
 
+
+<p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
 <!--
 **peterViou/peterViou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
