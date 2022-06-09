@@ -1,18 +1,16 @@
-<p><img src="https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y" alt="Hello" width="250" /></p>
-
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-<p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
+Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins
 
-<p>I currently live in the beautiful city of México after spending most of my life in Paris, Toulouse and La Rochelle, of course: my hometown</p>
+I currently live in the beautiful city of México after spending most of my life in Paris, Toulouse and La Rochelle, of course: my hometown
 
-<p>I'm cuurently looking for a job in CDMX</p>
+I'm cuurently looking for a job in CDMX
 
-<p>I'm working on several websites in Europe but would like to find a work to interract with people in this country that I love!!!</p>
+I'm working on several websites in Europe but would like to find a work to interract with people in this country that I love!!!
 
-<p>I'm always on personal/side project, to learn and achieve far beyond my own expactations...</p>
+I'm always on personal/side project, to learn and achieve far beyond my own expactations...
 
-<p>For exemple, I'm currently working on script in order to make my life easier to organize my videos on Plex</p>
+For exemple, I'm currently working on script in order to make my life easier to organize my videos on Plex
 
 📫 How to reach me: ...
 
