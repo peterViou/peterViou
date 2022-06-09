@@ -12,14 +12,6 @@ Hi it's **Peter**
 }
 ```
 	
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
 I spend a lot of time cooking either code, vegetables but also proteins...
 
 I currently live in the beautiful city of México after spending most of my life in Paris, Toulouse and La Rochelle, of course: my hometown
