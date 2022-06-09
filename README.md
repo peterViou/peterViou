@@ -2,6 +2,8 @@
 
 
 <p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
+
+<p>I currently live in the beautiful city of México after spending most of my life in Paris, Toulouse and La Rochelle, of course: my hometown</p>
 <!--
 **peterViou/peterViou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
