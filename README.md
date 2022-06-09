@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Fihbexl.gif](https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y" alt="Hello" width="250" />
+<iframe src="https://giphy.com/embed/EK24OWrJSy1GkkNu0y" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-greetings-EK24OWrJSy1GkkNu0y">via GIPHY</a></p>
 
 
 <p>Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins</p>
