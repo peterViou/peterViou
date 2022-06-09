@@ -1,7 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
 ![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif)
-
 
 Hi it's Peter, I'm French and I spend a lot of time cooking either code or vegetables but also proteins
 
