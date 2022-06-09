@@ -10,6 +10,9 @@ I'm working on several websites in Europe but would like to find a work to inter
 
 I'm always on personal/side project, to learn and achieve far beyond my own expactations...
 
+![Alt Text](https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif)
+
+
 For exemple, I'm currently working on script in order to make my life easier to organize my videos on Plex
 
 📫 How to reach me: ...
