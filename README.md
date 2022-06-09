@@ -1,6 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif)
 
-<img src="(https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="200px"  />
+<img src="(https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="100px"  />
 
 
 Hi it's **Peter**
