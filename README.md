@@ -1,6 +1,16 @@
 ![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif)
 
-Hi it's **Peter**, I'm French and I spend a lot of time cooking either code or vegetables but also proteins
+
+Hi it's **Peter**
+
+{
+  "firstName": "Peter",
+  "lastName": "Duchastenier",
+  nationality:"French",
+  "age": 43
+}
+
+I spend a lot of time cooking either code, vegetables but also proteins...
 
 I currently live in the beautiful city of México after spending most of my life in Paris, Toulouse and La Rochelle, of course: my hometown
 
