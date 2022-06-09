@@ -1,8 +1,5 @@
 ![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif)
 
-<img src="(https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="50%" height="50%" />
-
-
 Hi it's **Peter**
 
 ```
