@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif width="40")
+![Alt Text](https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif)
 
 
 Hi it's **Peter**
